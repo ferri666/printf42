@@ -1,0 +1,7 @@
+.gitignore
+*.o
+test*
+.DS_Store
+*.out
+*.a
+.vs_code
